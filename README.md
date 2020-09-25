@@ -1,9 +1,9 @@
 # matlab_supercalculator
 get to know the MATLAB environment and the very basic manipulation to become a MATLAB pro
 
-first steps into MATLAB Desktop
 ## Content
 
+First steps into MATLAB Desktop
 This course will give a short practical summary of the basic things one needs when the MATLAB desktop:
 
    - Setting the scene
@@ -22,7 +22,7 @@ This course will give a short practical summary of the basic things one needs wh
 n/a
 ## Result
 
-    Get started and feel comfortable in the MATLAB Desktop environment. Focus is on using it in an interactive way, as a 'super calculator'
+   Get started and feel comfortable in the MATLAB Desktop environment. Focus is on using it in an interactive way, as a 'super calculator'
 
 ## Material
 
