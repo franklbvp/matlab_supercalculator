@@ -27,6 +27,6 @@ n/a
 ## Material
 
 Check the *doc* folder, this folder contains:
-- narrative powerponts
+- narrative powerpoints
 - screencasts of MATLAB Desktop focusing on different aspects covered in the powerpoints
 - PDF of the slides
