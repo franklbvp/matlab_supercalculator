@@ -7,9 +7,9 @@ This folder contains the pdf versions of the slides
 |Presentation | PowerPoint Narrative | Screencast Demo MATLAB |
 |------------ | -------------------- | -----------------------|
 |part 0: Setting the scene | [introduction 25:30](https://kuleuven.mediaspace.kaltura.com/media/202008-Matlab-Introduction_m/1_kel508rp)| - |
-|part 1: MATLAB Desktop | [MATLAB Desktop components]() | [demo]() |
-| | [MATLAB Desktop Help]() |[demo]()  |
-| | [MATLAB Desktop more]() | [demo]()  |
+|part 1: MATLAB Desktop | [MATLAB Desktop components 26:26](https://kuleuven.mediaspace.kaltura.com/media/202008-Matlab-IDE_desktop_m/1_sox68xdp) | [demo]() |
+| | [MATLAB Desktop Help 8:04](https://kuleuven.mediaspace.kaltura.com/media/202008-Matlab-IDE_help_m/1_1rrwvg2z) |[demo]()  |
+| | [MATLAB Desktop more 15:41](https://kuleuven.mediaspace.kaltura.com/media/202008-Matlab-IDE_more_m/1_cwk8rxay) | [demo]()  |
 |part 2a: MATLAB Create Arrays | [MATLAB ARRAY - create vector]() | [demo]()  |
 | | [MATLAB ARRAY - create array]() | [demo]() |
 | | [MATLAB ARRAY - indexing]() | [demo]()  |
