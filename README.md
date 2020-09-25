@@ -26,8 +26,7 @@ n/a
 
 ## Material
 
-Check the doc folder
-The folder contains:
+Check the *doc* folder, this folder contains:
 - narrative powerponts
 - screencasts of MATLAB Desktop focusing on different aspects covered in the powerpoints
 - PDF of the slides
