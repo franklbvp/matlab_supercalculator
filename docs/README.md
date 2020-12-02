@@ -29,6 +29,7 @@ n/a
 - PDF of the slides
 - narrative powerpoints
 - screencasts of MATLAB Desktop focusing on different aspects covered in the powerpoints
+- [Hands-on examples](https://github.com/franklbvp/matlab_supercalculator/blob/master/docs/handson-matlab-supercalculator.zip)
 
 
 |Presentation | PowerPoint Narrative | Screencast Demo MATLAB |
